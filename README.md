@@ -17,14 +17,13 @@
 
 
 ### Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/LopezDeniz)
-[![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/alexeyshpavdaMain)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/leandrlopez.official)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lopezdeniz)
- ![1](https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue)
-
-
+<p align="center">
+<a href="https://t.me/LopezDeniz">
+<img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
+<a href=""><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
+<a href="https://www.instagram.com/leandrlopez.official"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
+<https: href="https://vk.com/lopezdeniz"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
+</p>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue"/>
 </p>
