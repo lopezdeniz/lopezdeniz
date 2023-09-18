@@ -29,6 +29,9 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue"/>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdeniz&hide_progress=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 
