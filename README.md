@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/HTML5-ffff00?logo=html5&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/SASS-ff294d?logo=sass&logoColor=black&style=for-the-badge">
-<img src="https://img.shields.io/badge/SQL-white?logo=sql&logoColor=87CEFA&style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-white?logo=mysql&logoColor=black&style=for-the-badge">
 <img src="https://img.shields.io/badge/SWIFT-FF4500?logo=swift&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/PYTHON-ffff00?logo=python&logoColor=blue&style=for-the-badge">
 <img src="https://img.shields.io/badge/JAVASCRIPT-ffff00?logo=javascript&logoColor=black&style=for-the-badge">
