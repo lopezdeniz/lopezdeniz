@@ -4,6 +4,7 @@
 
 
 ### Languages and Tools:
+<div id="badges" align="center">
 ![HTML5](https://img.shields.io/badge/HTML5-ffff00?logo=html5&logoColor=black&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white&style=for-the-badge)
 ![SASS](https://img.shields.io/badge/SASS-ff294d?logo=sass&logoColor=black&style=for-the-badge)
@@ -12,7 +13,7 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-ffff00?logo=python&logoColor=blue&style=for-the-badge)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-ffff00?logo=javascript&logoColor=black&style=for-the-badge)
 ![BAS](https://img.shields.io/badge/BAS-ffff0?logo=bas&logoColor=black&style=for-the-badge)
-
+</div>
 
 
 
