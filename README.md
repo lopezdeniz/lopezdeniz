@@ -22,9 +22,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/leandrlopez.official)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/alexeyshpavda)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lopezdeniz)
-
-
-###### ![1](https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue)
+ ![1](https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue)
 
 
 
