@@ -25,15 +25,19 @@
 <a href="https://www.instagram.com/leandrlopez.official"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
 <https: href="https://vk.com/lopezdeniz"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
 </p>
+
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdeniz&hide_progress=true">
+
+</p>
+
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue"/>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdeniz&hide_progress=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-
 
 
 
