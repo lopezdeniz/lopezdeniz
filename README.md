@@ -26,7 +26,7 @@
 
 
  <p align="center">
-  <b>[https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue]</b>
+  <img src="https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue"/>
 </p>
 
 
