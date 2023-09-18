@@ -24,7 +24,9 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/lopezdeniz)
 
 
-<p style="text-align: center;">(https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue)</p>
+<p style="text-align: center;">[1](https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue)</p>
+
+<p style="text-align: center;">NEST</p>
 
 
 
