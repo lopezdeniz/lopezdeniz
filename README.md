@@ -26,15 +26,16 @@
 <https: href="https://vk.com/lopezdeniz"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
 </p>
 
-
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical">
-
+<br>
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lopezdeniz&hide_progress=true">
 
 </p>
-
+<br>
  <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-lopezdeniz&style=flat-square&color=blue"/>
 </p>
