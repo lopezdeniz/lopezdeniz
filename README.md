@@ -4,7 +4,8 @@
 
 
 ### Languages and Tools:
-![HTML5](https://img.shields.io/badge/HTML5-yelow)
+![HTML5](https://img.shields.io/badge/HTML5-blue?logo=html5&logoColor=ffff00&style=for-the-badge
+)
 
 
 ### Socials:
