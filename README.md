@@ -3,7 +3,7 @@
     <meta name="title" content="GitHub Profile - lopezdeniz">
     <meta name="description" content="Explore the GitHub profile of lopezdeniz. Discover a world of coding,lopezdeniz, lopez deniz leandr, projects, and contributions in the world of technology.">
     <meta name="keywords" content="GitHub, coding, programming, projects, technology, contributions, open source, lopezdeniz, lopez deniz leandr">
-    <title>lopezdeniz</title>
+    
 
 
 
